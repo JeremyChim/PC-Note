@@ -1,10 +1,9 @@
 # Software-Memorandum
  小铭同学收录的一些软件。
-
+Github：https://github.com/JeremyChim/Software-Memorandum  
 
 # 装机必备
-作者：JeremyChim
-
+作者：JeremyChim  
 
 ## 系统激活
 [window激活工具](https://github.com/zbezj/HEU_KMS_Activator)    
