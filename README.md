@@ -5,9 +5,10 @@ Github链接：https://github.com/JeremyChim/Software-Memorandum
 # 装机必备
 作者：JeremyChim  
 
-## 系统激活
-[window激活工具](https://github.com/zbezj/HEU_KMS_Activator)    
-[V2ray下载链接](https://www.shidongli145.xyz/ssr-download/v2rayN-Core.zip)  
+## PE&系统&激活
+[微PE](https://www.wepe.com.cn/download.html)  
+[系统镜像](https://next.itellyou.cn/)  
+[window激活工具](https://github.com/zbezj/HEU_KMS_Activator)
 
 ## 机场
 [V2rayN](http://shidongli146.xyz/ssr-download/v2rayN-Core.zip)    
@@ -37,13 +38,12 @@ Github链接：https://github.com/JeremyChim/Software-Memorandum
 [AIMP3](https://www.aimp.ru/)  
 
 ## 其他  
-[115](https://pc.115.com/)  
-[V2rayN-V2.19](https://www.shidongli136.xyz/link/OZFMKFpneYtcRhVa?sub=3)  
-[GEEKUNINSTALLER](https://www.pc6.com/softview/SoftView_67433.html)  
-[WindowsUpdateBlocker](https://zhutix.com/software/windows-update-blocker/)  
-[StopUpdates10](https://www.cr173.com/soft/1068861.html)  
-[wiztree](https://www.diskanalyzer.com/download)  
-[RightMenuMgr](http://www.xitongzhijia.net/soft/112360.html)  
+[115](https://pc.115.com/)
+[GEEKUNINSTALLER卸载软件](https://www.pc6.com/softview/SoftView_67433.html)  
+[WindowsUpdateBlocker停止更新](https://zhutix.com/software/windows-update-blocker/)  
+[StopUpdates10停止更新](https://www.cr173.com/soft/1068861.html)  
+[wiztree磁盘清理软件](https://www.diskanalyzer.com/download)  
+[RightMenuMgr右健扩展菜单的管理器](http://www.xitongzhijia.net/soft/112360.html)  
 
 
 ## 美化类
