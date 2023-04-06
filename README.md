@@ -101,7 +101,7 @@ Github链接：https://github.com/JeremyChim/Software-Memorandum
 NET3.5  
 DX9  
 [DX9修复工具，如果DX9装不上的话](https://www.onlinedown.net/soft/120082.htm)  
-VC(微软运行库)  
+[VC(微软运行库)](http://soft.360.cn/static/baoku/info_7_0/softinfo_104698064.html)  
 
 ## Tampermonkey脚本
 [Super_preloaderPlus_one_改](https://greasyfork.org/zh-CN/scripts?q=Super_preloaderPlus_one_%E6%94%B9)  
