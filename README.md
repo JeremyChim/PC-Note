@@ -1,6 +1,6 @@
 # Software-Memorandum
- 小铭同学收录的一些软件。
-Github：https://github.com/JeremyChim/Software-Memorandum  
+ 小铭同学收录的一些软件。  
+Github链接：https://github.com/JeremyChim/Software-Memorandum  
 
 # 装机必备
 作者：JeremyChim  
