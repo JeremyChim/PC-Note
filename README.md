@@ -63,7 +63,7 @@ Github链接：https://github.com/JeremyChim/Software-Memorandum
 [任务栏图标居中方法](https://zhutix.com/10tutorials/renwulan-zhong/)  
 [Win10窗口标题栏变的很大很高如何恢复](http://www.winwin7.com/jc/15776.html)  
 > [win10选择框颜色怎么修改？win10修改选择框颜色的方法](http://www.xitongcheng.com/jiaocheng/win10_article_57759.html) 
->> 计算机\HKEY_CURRENT_USER\ControlPanel\Colors
+> > 计算机\HKEY_CURRENT_USER\ControlPanel\Colors
 
 ## Chrome&Firefox插件集
 [crxMouse](https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo?utm_source=chrome-ntp-icon)  
@@ -126,3 +126,18 @@ DX9
 ## 字体
 [思源黑体](https://www.onlinedown.net/soft/1122151.htm)  
 [苹方](http://www.winwin7.com/soft/15879.html)  (115有/字体/苹方字体【包含桌面粗体版】)  
+
+## 编程软件
+[Python](https://www.python.org/downloads/windows/)  
+[PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)  
+[Git](https://git-scm.com/downloads)  
+[Github Desktop](https://desktop.github.com/)  
+> PyCharm镜像源
+> > http://pypi.sdutlinux.org/  
+> > https://pypi.mirrors.ustc.edu.cn/simple/
+
+## 加速器
+[steam++](https://steampp.net/download)  
+[奇游](https://www.qiyou.cn/)  
+[迅游](https://www.xunyou.com/)  
+[UU](https://uu.163.com/)  
