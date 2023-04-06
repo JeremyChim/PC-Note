@@ -32,13 +32,13 @@ Github链接：https://github.com/JeremyChim/Software-Memorandum
 [火绒](https://www.huorong.cn/)    
 [Snipaste截图](https://www.snipaste.com/)    
 [百度翻译](https://fanyi.baidu.com/appdownload/download.html?tab=desktop&fr=pcplugin)  
+[115](https://pc.115.com/)  
 
 ## 播放器  
 [PotPlayer](https://potplayer.org/category-1.html)  
 [AIMP3](https://www.aimp.ru/)  
 
 ## 其他  
-[115](https://pc.115.com/)
 [GEEKUNINSTALLER卸载软件](https://www.pc6.com/softview/SoftView_67433.html)  
 [WindowsUpdateBlocker停止更新](https://zhutix.com/software/windows-update-blocker/)  
 [StopUpdates10停止更新](https://www.cr173.com/soft/1068861.html)  
