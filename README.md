@@ -1,13 +1,14 @@
 # Software-Memorandum
- 小铭同学收录的一些软件。
-Github：https://github.com/JeremyChim/Software-Memorandum  
+ 小铭同学收录的一些软件。  
+Github链接：https://github.com/JeremyChim/Software-Memorandum  
 
 # 装机必备
 作者：JeremyChim  
 
-## 系统激活
-[window激活工具](https://github.com/zbezj/HEU_KMS_Activator)    
-[V2ray下载链接](https://www.shidongli145.xyz/ssr-download/v2rayN-Core.zip)  
+## PE&系统&激活
+[微PE](https://www.wepe.com.cn/download.html)  
+[系统镜像](https://next.itellyou.cn/)  
+[window激活工具](https://github.com/zbezj/HEU_KMS_Activator)
 
 ## 机场
 [V2rayN](http://shidongli146.xyz/ssr-download/v2rayN-Core.zip)    
@@ -31,19 +32,18 @@ Github：https://github.com/JeremyChim/Software-Memorandum
 [火绒](https://www.huorong.cn/)    
 [Snipaste截图](https://www.snipaste.com/)    
 [百度翻译](https://fanyi.baidu.com/appdownload/download.html?tab=desktop&fr=pcplugin)  
+[115](https://pc.115.com/)  
 
 ## 播放器  
 [PotPlayer](https://potplayer.org/category-1.html)  
 [AIMP3](https://www.aimp.ru/)  
 
 ## 其他  
-[115](https://pc.115.com/)  
-[V2rayN-V2.19](https://www.shidongli136.xyz/link/OZFMKFpneYtcRhVa?sub=3)  
-[GEEKUNINSTALLER](https://www.pc6.com/softview/SoftView_67433.html)  
-[WindowsUpdateBlocker](https://zhutix.com/software/windows-update-blocker/)  
-[StopUpdates10](https://www.cr173.com/soft/1068861.html)  
-[wiztree](https://www.diskanalyzer.com/download)  
-[RightMenuMgr](http://www.xitongzhijia.net/soft/112360.html)  
+[GEEKUNINSTALLER卸载软件](https://www.pc6.com/softview/SoftView_67433.html)  
+[WindowsUpdateBlocker停止更新](https://zhutix.com/software/windows-update-blocker/)  
+[StopUpdates10停止更新](https://www.cr173.com/soft/1068861.html)  
+[wiztree磁盘清理软件](https://www.diskanalyzer.com/download)  
+[RightMenuMgr右健扩展菜单的管理器](http://www.xitongzhijia.net/soft/112360.html)  
 
 
 ## 美化类
@@ -63,7 +63,7 @@ Github：https://github.com/JeremyChim/Software-Memorandum
 [任务栏图标居中方法](https://zhutix.com/10tutorials/renwulan-zhong/)  
 [Win10窗口标题栏变的很大很高如何恢复](http://www.winwin7.com/jc/15776.html)  
 > [win10选择框颜色怎么修改？win10修改选择框颜色的方法](http://www.xitongcheng.com/jiaocheng/win10_article_57759.html) 
->> 计算机\HKEY_CURRENT_USER\ControlPanel\Colors
+> > 计算机\HKEY_CURRENT_USER\ControlPanel\Colors
 
 ## Chrome&Firefox插件集
 [crxMouse](https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo?utm_source=chrome-ntp-icon)  
@@ -101,7 +101,7 @@ Github：https://github.com/JeremyChim/Software-Memorandum
 NET3.5  
 DX9  
 [DX9修复工具，如果DX9装不上的话](https://www.onlinedown.net/soft/120082.htm)  
-VC(微软运行库)  
+[VC(微软运行库)](http://soft.360.cn/static/baoku/info_7_0/softinfo_104698064.html)  
 
 ## Tampermonkey脚本
 [Super_preloaderPlus_one_改](https://greasyfork.org/zh-CN/scripts?q=Super_preloaderPlus_one_%E6%94%B9)  
@@ -126,3 +126,18 @@ VC(微软运行库)
 ## 字体
 [思源黑体](https://www.onlinedown.net/soft/1122151.htm)  
 [苹方](http://www.winwin7.com/soft/15879.html)  (115有/字体/苹方字体【包含桌面粗体版】)  
+
+## 编程软件
+[Python](https://www.python.org/downloads/windows/)  
+[PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)  
+[Git](https://git-scm.com/downloads)  
+[Github Desktop](https://desktop.github.com/)  
+> PyCharm镜像源
+> > http://pypi.sdutlinux.org/  
+> > https://pypi.mirrors.ustc.edu.cn/simple/
+
+## 加速器
+[steam++](https://steampp.net/download)  
+[奇游](https://www.qiyou.cn/)  
+[迅游](https://www.xunyou.com/)  
+[UU](https://uu.163.com/)  
