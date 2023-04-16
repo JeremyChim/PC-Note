@@ -46,6 +46,7 @@ Github链接：https://github.com/JeremyChim/Software-Memorandum
 [StopUpdates10停止更新](https://www.cr173.com/soft/1068861.html)  
 [wiztree磁盘清理软件](https://www.diskanalyzer.com/download)  
 [RightMenuMgr右健扩展菜单的管理器](http://www.xitongzhijia.net/soft/112360.html)  
+[netlimiter流量监视器](https://www.netlimiter.com/)   
 
 
 ## 美化类
