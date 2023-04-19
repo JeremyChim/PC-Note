@@ -20,7 +20,7 @@ Github链接：https://github.com/JeremyChim/Software-Memorandum
 [vmess节点2](vmess://eyJ2IjoiMiIsInBzIjoi5pel5pysIFYxfFdTfENETnxBMSIsImFkZCI6InN2MWpwYTEuMTUxY2MueHl6IiwicG9ydCI6IjgwIiwiaWQiOiI4NmUyNDY2ZC1lMWY4LTNkNjItOTM4Yi05NzE5MWMwYTQzY2YiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzdjFqcGExLjE1MWNjLnh5eiIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJ0bHMiOiIifQ==)    
 
 [JCBB机场](https://jcbb.life/#/login)   
-[订阅地址remarks](https://www.jcbb.life/api/v1/client/subscribe?token=7dc7d07d13d2a6235e891ba1424f06bc)  
+[订阅地址remarks](https://www.jcbb.life/api/v1/client/subscribe?token=2049161c50c7bb15d6330b30c2dd3ffb)  
 
 ## 浏览器
 [Firefox](http://www.firefox.com.cn/)    
