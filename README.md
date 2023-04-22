@@ -82,8 +82,8 @@ Github链接：https://github.com/JeremyChim/Software-Memorandum
 [ImageAssistant](https://chrome.google.com/webstore/detail/imageassistant-batch-imag/dbjbempljhcmhlfpfacalomonjpalpko?utm_source=chrome-ntp-icon)  
 [字体换成苹方](https://chrome.google.com/webstore/detail/%E5%AD%97%E4%BD%93%E6%8D%A2%E6%88%90%E8%8B%B9%E6%96%B9/pogfdgfepibcifimpojbacaolamhbjde/related?utm_source=chrome-ntp-icon)  
 [替换字体的中文部分为雅黑](https://chrome.google.com/webstore/detail/%E6%9B%BF%E6%8D%A2%E5%AD%97%E4%BD%93%E7%9A%84%E4%B8%AD%E6%96%87%E9%83%A8%E5%88%86%E4%B8%BA%E9%9B%85%E9%BB%91/enpkigfhoabjjjonanmddidnnahopmcn?utm_source=chrome-ntp-icon)  
-[IP域国家标志](https://chrome.google.com/webstore/detail/ip-domain-country-flag/mlpapfcfoakknnhkfpencomejbcecdfp?utm_source=chrome-ntp-icon)
-[LastPass](https://chrome.google.com/webstore/detail/listen-1/indecfegkejajpaipjipfkkbedgaodbp)  
+[IP域国家标志](https://chrome.google.com/webstore/detail/ip-domain-country-flag/mlpapfcfoakknnhkfpencomejbcecdfp?utm_source=chrome-ntp-icon)    
+[LastPass](https://chrome.google.com/webstore/detail/listen-1/indecfegkejajpaipjipfkkbedgaodbp)    
 [Listen1](https://chrome.google.com/webstore/detail/listen-1/indecfegkejajpaipjipfkkbedgaodbp)  
 
 ## 装机
