@@ -14,13 +14,14 @@ Github链接：https://github.com/JeremyChim/Software-Memorandum
 [V2rayN](http://shidongli146.xyz/ssr-download/v2rayN-Core.zip)    
 [V2ray Github](https://github.com/2dust/v2rayN)   
 
-[机场](http://shidongli146.xyz/)    
-[订阅地址remarks](https://www.shidongli145.xyz/link/OZFMKFpneYtcRhVa?sub=4)    
+[视动力机场](http://shidongli146.xyz/)    
+[订阅地址remarks](https://www.shidongli145.xyz/link/qd0v8A1ne67fWP9W?sub=4)  
+
 [vmess节点1](vmess://eyJ2IjoiMiIsInBzIjoi5pel5pysIFYxfFdTfENETnwzIiwiYWRkIjoic3YxanB0cjMuMTUxY2MueHl6IiwicG9ydCI6IjgwIiwiaWQiOiI4NmUyNDY2ZC1lMWY4LTNkNjItOTM4Yi05NzE5MWMwYTQzY2YiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzdjFqcHRyMy4xNTFjYy54eXoiLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4IiwidGxzIjoiIn0=)    
 [vmess节点2](vmess://eyJ2IjoiMiIsInBzIjoi5pel5pysIFYxfFdTfENETnxBMSIsImFkZCI6InN2MWpwYTEuMTUxY2MueHl6IiwicG9ydCI6IjgwIiwiaWQiOiI4NmUyNDY2ZC1lMWY4LTNkNjItOTM4Yi05NzE5MWMwYTQzY2YiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzdjFqcGExLjE1MWNjLnh5eiIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJ0bHMiOiIifQ==)    
 
 [JCBB机场](https://jcbb.life/#/login)   
-[订阅地址remarks](https://www.jcbb.life/api/v1/client/subscribe?token=7dc7d07d13d2a6235e891ba1424f06bc)  
+[订阅地址remarks](https://www.jcbb.life/api/v1/client/subscribe?token=2049161c50c7bb15d6330b30c2dd3ffb)  
 
 ## 浏览器
 [Firefox](http://www.firefox.com.cn/)    
@@ -81,8 +82,8 @@ Github链接：https://github.com/JeremyChim/Software-Memorandum
 [ImageAssistant](https://chrome.google.com/webstore/detail/imageassistant-batch-imag/dbjbempljhcmhlfpfacalomonjpalpko?utm_source=chrome-ntp-icon)  
 [字体换成苹方](https://chrome.google.com/webstore/detail/%E5%AD%97%E4%BD%93%E6%8D%A2%E6%88%90%E8%8B%B9%E6%96%B9/pogfdgfepibcifimpojbacaolamhbjde/related?utm_source=chrome-ntp-icon)  
 [替换字体的中文部分为雅黑](https://chrome.google.com/webstore/detail/%E6%9B%BF%E6%8D%A2%E5%AD%97%E4%BD%93%E7%9A%84%E4%B8%AD%E6%96%87%E9%83%A8%E5%88%86%E4%B8%BA%E9%9B%85%E9%BB%91/enpkigfhoabjjjonanmddidnnahopmcn?utm_source=chrome-ntp-icon)  
-[IP域国家标志](https://chrome.google.com/webstore/detail/ip-domain-country-flag/mlpapfcfoakknnhkfpencomejbcecdfp?utm_source=chrome-ntp-icon)
-[LastPass](https://chrome.google.com/webstore/detail/listen-1/indecfegkejajpaipjipfkkbedgaodbp)  
+[IP域国家标志](https://chrome.google.com/webstore/detail/ip-domain-country-flag/mlpapfcfoakknnhkfpencomejbcecdfp?utm_source=chrome-ntp-icon)    
+[LastPass](https://chrome.google.com/webstore/detail/listen-1/indecfegkejajpaipjipfkkbedgaodbp)    
 [Listen1](https://chrome.google.com/webstore/detail/listen-1/indecfegkejajpaipjipfkkbedgaodbp)  
 
 ## 装机
@@ -129,8 +130,9 @@ DX9
 [微星小飞机](https://cn.msi.com/Landing/afterburner/graphics-cards)  
 
 ## 字体
-[思源黑体](https://www.onlinedown.net/soft/1122151.htm)  
-[苹方](http://www.winwin7.com/soft/15879.html)  (115有/字体/苹方字体【包含桌面粗体版】)  
+[思源黑体](https://www.onlinedown.net/soft/1122151.htm)      
+[苹方](http://www.winwin7.com/soft/15879.html)    
+> 115有/字体/苹方字体【包含桌面粗体版】   
 
 ## 编程软件
 [Python](https://www.python.org/downloads/windows/)  
