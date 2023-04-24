@@ -130,8 +130,9 @@ DX9
 [微星小飞机](https://cn.msi.com/Landing/afterburner/graphics-cards)  
 
 ## 字体
-[思源黑体](https://www.onlinedown.net/soft/1122151.htm)  
-[苹方](http://www.winwin7.com/soft/15879.html)  (115有/字体/苹方字体【包含桌面粗体版】)  
+[思源黑体](https://www.onlinedown.net/soft/1122151.htm)      
+[苹方](http://www.winwin7.com/soft/15879.html)    
+> 115有/字体/苹方字体【包含桌面粗体版】   
 
 ## 编程软件
 [Python](https://www.python.org/downloads/windows/)  
