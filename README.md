@@ -140,13 +140,12 @@ DX9
 [Git](https://git-scm.com/downloads)  
 [Github Desktop](https://desktop.github.com/)
 
-> PyCharm镜像源
-> > http://pypi.sdutlinux.org/  
-> > https://pypi.mirrors.ustc.edu.cn/simple/
+PyCharm镜像源
+> - http://pypi.sdutlinux.org/  
+> - https://pypi.mirrors.ustc.edu.cn/simple/
 
-> PyCharm签名
-> > 设置 - 编辑器 - 文件和代码模版 - Python Script
-
+PyCharm签名
+> 设置 - 编辑器 - 文件和代码模版 - Python Script
 ```python
 # -*- coding: utf-8 -*-
 # @Time ： ${DATE} ${TIME}
