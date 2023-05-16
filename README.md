@@ -11,17 +11,18 @@ Github链接：https://github.com/JeremyChim/Software-Memorandum
 [window激活工具](https://github.com/zbezj/HEU_KMS_Activator)
 
 ## 机场
-[V2rayN](http://shidongli146.xyz/ssr-download/v2rayN-Core.zip)    
-[V2ray Github](https://github.com/2dust/v2rayN)   
+[SDL机场V2rayN](http://shidongli146.xyz/ssr-download/v2rayN-Core.zip)  
+[V2rayN Github](https://github.com/2dust/v2rayN) [v6.23下载](https://github.com/2dust/v2rayN/releases/download/6.23/v2rayN.zip)
+[V2rayNG Github](https://github.com/2dust/v2rayNG) [v1.7.38下载](https://github.com/2dust/v2rayNG/releases/download/1.7.38/v2rayNG_1.7.38_arm64-v8a.apk)
 
 [视动力机场](http://shidongli146.xyz/)    
 [订阅地址remarks](https://www.shidongli145.xyz/link/qd0v8A1ne67fWP9W?sub=4)  
 
-[vmess节点1](vmess://eyJ2IjoiMiIsInBzIjoi5pel5pysIFYxfFdTfENETnwzIiwiYWRkIjoic3YxanB0cjMuMTUxY2MueHl6IiwicG9ydCI6IjgwIiwiaWQiOiI4NmUyNDY2ZC1lMWY4LTNkNjItOTM4Yi05NzE5MWMwYTQzY2YiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzdjFqcHRyMy4xNTFjYy54eXoiLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4IiwidGxzIjoiIn0=)    
-[vmess节点2](vmess://eyJ2IjoiMiIsInBzIjoi5pel5pysIFYxfFdTfENETnxBMSIsImFkZCI6InN2MWpwYTEuMTUxY2MueHl6IiwicG9ydCI6IjgwIiwiaWQiOiI4NmUyNDY2ZC1lMWY4LTNkNjItOTM4Yi05NzE5MWMwYTQzY2YiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzdjFqcGExLjE1MWNjLnh5eiIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJ0bHMiOiIifQ==)    
-
 [JCBB机场](https://jcbb.life/#/login)   
 [订阅地址remarks](https://www.jcbb.life/api/v1/client/subscribe?token=2049161c50c7bb15d6330b30c2dd3ffb)  
+
+[vmess节点1](vmess://eyJ2IjoiMiIsInBzIjoi5pel5pysIFYxfFdTfENETnwzIiwiYWRkIjoic3YxanB0cjMuMTUxY2MueHl6IiwicG9ydCI6IjgwIiwiaWQiOiI4NmUyNDY2ZC1lMWY4LTNkNjItOTM4Yi05NzE5MWMwYTQzY2YiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzdjFqcHRyMy4xNTFjYy54eXoiLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4IiwidGxzIjoiIn0=)    
+[vmess节点2](vmess://eyJ2IjoiMiIsInBzIjoi5pel5pysIFYxfFdTfENETnxBMSIsImFkZCI6InN2MWpwYTEuMTUxY2MueHl6IiwicG9ydCI6IjgwIiwiaWQiOiI4NmUyNDY2ZC1lMWY4LTNkNjItOTM4Yi05NzE5MWMwYTQzY2YiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzdjFqcGExLjE1MWNjLnh5eiIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJ0bHMiOiIifQ==)    
 
 ## 浏览器
 [Firefox](http://www.firefox.com.cn/)    
