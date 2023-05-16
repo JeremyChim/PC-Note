@@ -138,10 +138,23 @@ DX9
 [Python](https://www.python.org/downloads/windows/)  
 [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)  
 [Git](https://git-scm.com/downloads)  
-[Github Desktop](https://desktop.github.com/)  
+[Github Desktop](https://desktop.github.com/)
+
 > PyCharm镜像源
 > > http://pypi.sdutlinux.org/  
 > > https://pypi.mirrors.ustc.edu.cn/simple/
+
+> PyCharm签名
+> > 设置 - 编辑器 - 文件和代码模版 - Python Script
+
+```python
+# -*- coding: utf-8 -*-
+# @Time ： ${DATE} ${TIME}
+# @Auth ： JeremyChim
+# @File ：${NAME}.py
+# @IDE ：${PRODUCT_NAME}
+# @Github ：https://github.com/JeremyChim/
+```
 
 ## 加速器
 [steam++](https://steampp.net/download)  
