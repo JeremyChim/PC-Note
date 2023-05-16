@@ -12,8 +12,8 @@ Github链接：https://github.com/JeremyChim/Software-Memorandum
 
 ## 机场
 [SDL机场V2rayN](http://shidongli146.xyz/ssr-download/v2rayN-Core.zip)  
-[V2rayN Github](https://github.com/2dust/v2rayN) [v6.23下载](https://github.com/2dust/v2rayN/releases/download/6.23/v2rayN.zip)
-[V2rayNG Github](https://github.com/2dust/v2rayNG) [v1.7.38下载](https://github.com/2dust/v2rayNG/releases/download/1.7.38/v2rayNG_1.7.38_arm64-v8a.apk)
+[V2rayN Github](https://github.com/2dust/v2rayN) [v6.23下载](https://github.com/2dust/v2rayN/releases/download/6.23/v2rayN.zip)   
+[V2rayNG Github](https://github.com/2dust/v2rayNG) [v1.7.38下载](https://github.com/2dust/v2rayNG/releases/download/1.7.38/v2rayNG_1.7.38_arm64-v8a.apk)    
 
 [视动力机场](http://shidongli146.xyz/)    
 [订阅地址remarks](https://www.shidongli145.xyz/link/qd0v8A1ne67fWP9W?sub=4)  
