@@ -15,6 +15,7 @@ Github链接：https://github.com/JeremyChim/Software-Memorandum
 [apkpure官网](https://apkpure.com/cn/)  
 [apkpure.apk下载](https://d-11.winudf.com/custom/com.apkpure.aegon-3190857.apk?_fn=QVBLUHVyZV92My4xOS4wOF9hcGtwdXJlLmNvbS5hcGs&_p=Y29tLmFwa3B1cmUuYWVnb24&am=BiU12eHZTPm3dr2avirgiQ&arg=apkpure%3A%2F%2Fcampaign%2F%3Futm_medium%3Dapkpure%26utm_source%3Dhome%26report_context%3D%7B%22id%22%3A%221032600307%22%2C%22channel_id%22%3A%221006%22%7D&at=1684236864&download_id=1439109573910736&k=e1ac99af8903d925bdfdf1d9ddb1884c6464bbc3&r=https%3A%2F%2Fapkpure.com%2Fcn%2F&uu=http%3A%2F%2F172.16.84.1%2Fcustom%2Fcom.apkpure.aegon-3190857.apk%3Fk%3D9450ccec08db7b6114012117e2ca081f6464bbc3)  
 [kiwi Browser.apk下载](https://d.apkpure.com/b/APK/com.kiwibrowser.browser?versionCode=561513715)  
+[李跳跳.apk下载](https://github.com/JeremyChim/Software-Memorandum/raw/main/apk/%E6%9D%8E%E8%B7%B3%E8%B7%B32.2%E6%AD%A3%E5%BC%8F%E7%89%88.apk)
 
 
 ## 机场
