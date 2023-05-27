@@ -51,6 +51,7 @@ Github链接：https://github.com/JeremyChim/Software-Memorandum
 [Snipaste截图](https://www.snipaste.com/)    
 [百度翻译](https://fanyi.baidu.com/appdownload/download.html?tab=desktop&fr=pcplugin)  
 [115](https://pc.115.com/)  
+[PS骨头版](https://www.downkuai.com/soft/35.html)    
 
 ## 播放器  
 [PotPlayer](https://potplayer.org/category-1.html)  
