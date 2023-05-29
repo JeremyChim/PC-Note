@@ -169,6 +169,12 @@ PyCharm签名
 # @Github ：https://github.com/JeremyChim/
 ```
 
+封装setup.bat
+```cmd
+Pyinstaller -F -w -i app.ico app.py
+pause
+```
+
 ## 加速器
 [steam++](https://steampp.net/download)  
 [奇游](https://www.qiyou.cn/)  
