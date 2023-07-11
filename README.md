@@ -1,11 +1,14 @@
 # Software-Memorandum
+
  小铭同学收录的一些软件。  
 Github链接：https://github.com/JeremyChim/Software-Memorandum  
 
 # 装机必备
+
 作者：JeremyChim  
 
 ## PE&系统&激活
+
 [微PE](https://www.wepe.com.cn/download.html)  
 [系统镜像](https://next.itellyou.cn/)  
 [window激活工具](https://github.com/zbezj/HEU_KMS_Activator)
@@ -17,30 +20,44 @@ Github链接：https://github.com/JeremyChim/Software-Memorandum
 [kiwi Browser.apk下载](https://d.apkpure.com/b/APK/com.kiwibrowser.browser?versionCode=561513715)  
 [李跳跳.apk下载](https://github.com/JeremyChim/Software-Memorandum/raw/main/apk/%E6%9D%8E%E8%B7%B3%E8%B7%B32.2%E6%AD%A3%E5%BC%8F%E7%89%88.apk)
 
-
 ## 机场
-[SDL机场V2rayN下载](http://shidongli146.xyz/ssr-download/v2rayN-Core.zip)  
+
+[SDL机场V2 下载1](http://shidongli146.xyz/ssr-download/v2rayN-Core.zip)  
+
+[SDL机场V2 下载2](https://shidongli143.xyz/ssr-download/v2rayN-Core.zip)  
+
+
 
 [V2rayN-Github](https://github.com/2dust/v2rayN)   
 [v6.23下载](https://github.com/2dust/v2rayN/releases/download/6.23/v2rayN.zip)   
 
+
+
 [V2rayNG-Github](https://github.com/2dust/v2rayNG)    
 [v1.7.38下载](https://github.com/2dust/v2rayNG/releases/download/1.7.38/v2rayNG_1.7.38_arm64-v8a.apk)    
+
+
 
 [视动力机场](http://shidongli146.xyz/)    
 [订阅地址remarks](https://www.shidongli145.xyz/link/qd0v8A1ne67fWP9W?sub=4)  
 
+
+
 [JCBB机场](https://jcbb.life/#/login)   
 [订阅地址remarks](https://www.jcbb.life/api/v1/client/subscribe?token=2049161c50c7bb15d6330b30c2dd3ffb)  
+
+
 
 [vmess节点1](vmess://eyJ2IjoiMiIsInBzIjoi5pel5pysIFYxfFdTfENETnwzIiwiYWRkIjoic3YxanB0cjMuMTUxY2MueHl6IiwicG9ydCI6IjgwIiwiaWQiOiI4NmUyNDY2ZC1lMWY4LTNkNjItOTM4Yi05NzE5MWMwYTQzY2YiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzdjFqcHRyMy4xNTFjYy54eXoiLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4IiwidGxzIjoiIn0=)    
 [vmess节点2](vmess://eyJ2IjoiMiIsInBzIjoi5pel5pysIFYxfFdTfENETnxBMSIsImFkZCI6InN2MWpwYTEuMTUxY2MueHl6IiwicG9ydCI6IjgwIiwiaWQiOiI4NmUyNDY2ZC1lMWY4LTNkNjItOTM4Yi05NzE5MWMwYTQzY2YiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzdjFqcGExLjE1MWNjLnh5eiIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJ0bHMiOiIifQ==)    
 
 ## 浏览器
+
 [Firefox](http://www.firefox.com.cn/)    
 [Chrome](https://www.google.cn/chrome/)    
 
 ## 办公
+
 [搜狗输入法](https://pinyin.sogou.com/)    
 [Bandizip](https://www.cr173.com/soft/43569.html)    
 [Everything](https://www.voidtools.com/zh-cn/)    
@@ -53,11 +70,13 @@ Github链接：https://github.com/JeremyChim/Software-Memorandum
 [115](https://pc.115.com/)  
 [PS骨头版](https://www.downkuai.com/soft/35.html)    
 
-## 播放器  
+## 播放器
+
 [PotPlayer](https://potplayer.org/category-1.html)  
 [AIMP3](https://www.aimp.ru/)  
 
-## 其他  
+## 其他
+
 [GEEKUNINSTALLER卸载软件](https://www.pc6.com/softview/SoftView_67433.html)  
 [WindowsUpdateBlocker停止更新](https://zhutix.com/software/windows-update-blocker/)  
 [StopUpdates10停止更新](https://www.cr173.com/soft/1068861.html)  
@@ -65,8 +84,8 @@ Github链接：https://github.com/JeremyChim/Software-Memorandum
 [RightMenuMgr右健扩展菜单的管理器](http://www.xitongzhijia.net/soft/112360.html)  
 [netlimiter流量监视器](https://www.netlimiter.com/)   
 
-
 ## 美化类
+
 [StartIsBack++](https://zhutix.com/tools/startisback-plus-pojie/)  
 [SIBTools(StartIsBack激活秘钥破解工具)](http://www.downxia.com/downinfo/294865.html)  
 [TrafficMonitor](https://zhutix.com/software/traffic-monitor/)  
@@ -77,15 +96,19 @@ Github链接：https://github.com/JeremyChim/Software-Memorandum
 [WinDynamicDesktop4.4.0-Win10仿mac动态壁纸工具](https://zhutix.com/tools/windynamicdesktop/)  
 
 ## 常见问题
+
 [Win10资源管理器搜索图标显示为“璗”解决方法](https://zhutix.com/study/sousuo-dang/)  
 [一键去除快捷方式小箭头和小盾牌](https://zhutix.com/software/quxiaojiandunpai/)  
 [Win10关闭用户帐户控制UAC方法](https://zhutix.com/10tutorials/win10-guanbi-uac/)  
 [任务栏图标居中方法](https://zhutix.com/10tutorials/renwulan-zhong/)  
 [Win10窗口标题栏变的很大很高如何恢复](http://www.winwin7.com/jc/15776.html)  
+
 > [win10选择框颜色怎么修改？win10修改选择框颜色的方法](http://www.xitongcheng.com/jiaocheng/win10_article_57759.html) 
+> 
 > > 计算机\HKEY_CURRENT_USER\ControlPanel\Colors
 
 ## Chrome&Firefox插件集
+
 [crxMouse](https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo?utm_source=chrome-ntp-icon)  
 [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-ntp-icon)  
 [uBlockOrigin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?utm_source=chrome-ntp-icon)  
@@ -101,6 +124,7 @@ Github链接：https://github.com/JeremyChim/Software-Memorandum
 [Listen1](https://chrome.google.com/webstore/detail/listen-1/indecfegkejajpaipjipfkkbedgaodbp)  
 
 ## 装机
+
 [微PEV2.1](https://zhutix.com/software/pan-10-pe/)  
 [window系统MSDN镜像](https://msdn.itellyou.cn/)  
 [NEXT,ITELLYOU](https://next.itellyou.cn/Original/Index)  
@@ -110,6 +134,7 @@ Github链接：https://github.com/JeremyChim/Software-Memorandum
 [kmstools](U盘里有)  
 
 ## 网站
+
 [云端文件传输](https://airportal.cn/)  
 [毛子的无手机注册邮箱](https://yandex.com)  
 [科学机场航站楼](https://www.shidongli136.xyz/auth/login)  
@@ -118,12 +143,14 @@ Github链接：https://github.com/JeremyChim/Software-Memorandum
 [空投文件](https://airportal.cn/)  
 
 ## 游戏环境必装
+
 NET3.5  
 DX9  
 [DX9修复工具，如果DX9装不上的话](https://www.onlinedown.net/soft/120082.htm)  
 [VC(微软运行库)](http://soft.360.cn/static/baoku/info_7_0/softinfo_104698064.html)  
 
 ## Tampermonkey脚本
+
 [Super_preloaderPlus_one_改](https://greasyfork.org/zh-CN/scripts?q=Super_preloaderPlus_one_%E6%94%B9)  
 [Super_preloaderPlus_one_New](https://machsix.github.io/Super-preloader/Super_preloaderPlus_one_New.user.js)  
 [AC-baidu：优化百度、搜狗、谷歌搜索结果之关键词自动高亮](https://greasyfork.org/zh-CN/scripts/368418-ac-baidu-%E4%BC%98%E5%8C%96%E7%99%BE%E5%BA%A6-%E6%90%9C%E7%8B%97-%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C%E4%B9%8B%E5%85%B3%E9%94%AE%E8%AF%8D%E8%87%AA%E5%8A%A8%E9%AB%98%E4%BA%AE)  
@@ -139,27 +166,34 @@ DX9
 [LocalSoundCloudDownloader音乐下载](https://greasyfork.org/zh-CN/scripts/394837-local-soundcloud-downloader)  
 
 ## 选装
+
 [wisefolderhider](http://www.pc6.com/softview/SoftView_65888.html)  
 [foobar2000](http://www.foobar2000.com.cn/interface/showimg.php?lang=cn&id=73)  
 [微星小飞机](https://cn.msi.com/Landing/afterburner/graphics-cards)  
 
 ## 字体
+
 [思源黑体](https://www.onlinedown.net/soft/1122151.htm)      
 [苹方](http://www.winwin7.com/soft/15879.html)    
+
 > 115有/字体/苹方字体【包含桌面粗体版】   
 
 ## 编程软件
+
 [Python](https://www.python.org/downloads/windows/)  
 [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)  
 [Git](https://git-scm.com/downloads)  
 [Github Desktop](https://desktop.github.com/)
 
 PyCharm镜像源
+
 > - http://pypi.sdutlinux.org/  
 > - https://pypi.mirrors.ustc.edu.cn/simple/
 
 PyCharm签名
+
 > 设置 - 编辑器 - 文件和代码模版 - Python Script
+
 ```python
 # -*- coding: utf-8 -*-
 # @Time ： ${DATE} ${TIME}
@@ -170,12 +204,14 @@ PyCharm签名
 ```
 
 封装setup.bat
+
 ```cmd
 Pyinstaller -F -w -i app.ico app.py
 pause
 ```
 
 ## 加速器
+
 [steam++](https://steampp.net/download)  
 [奇游](https://www.qiyou.cn/)  
 [迅游](https://www.xunyou.com/)  
