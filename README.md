@@ -1,6 +1,6 @@
 # Software-Memorandum
 
- 小铭同学收录的一些软件。  
+ 小铭同学收录的一些软件。🥳🥳🥳💜💜💜🤪🤪🤪  
 Github链接：https://github.com/JeremyChim/Software-Memorandum  
 
 # 装机必备
@@ -20,36 +20,23 @@ Github链接：https://github.com/JeremyChim/Software-Memorandum
 [kiwi Browser.apk下载](https://d.apkpure.com/b/APK/com.kiwibrowser.browser?versionCode=561513715)  
 [李跳跳.apk下载](https://github.com/JeremyChim/Software-Memorandum/raw/main/apk/%E6%9D%8E%E8%B7%B3%E8%B7%B32.2%E6%AD%A3%E5%BC%8F%E7%89%88.apk)
 
-## 机场
+## V2RAY
 
-[SDL机场V2 下载1](http://shidongli146.xyz/ssr-download/v2rayN-Core.zip)  
+### Window平台
 
-[SDL机场V2 下载2](https://shidongli143.xyz/ssr-download/v2rayN-Core.zip)  
+[V2rayN Github官网](https://github.com/2dust/v2rayN)
 
+[v2rayN-Core.zip 下载1](https://github.com/2dust/v2rayN/releases/download/6.23/v2rayN.zip)   
 
+[v2rayN-Core.zip 下载3](http://shidongli146.xyz/ssr-download/v2rayN-Core.zip)
 
-[V2rayN-Github](https://github.com/2dust/v2rayN)   
-[v6.23下载](https://github.com/2dust/v2rayN/releases/download/6.23/v2rayN.zip)   
+[v2rayN-Core.zip 下载2](https://shidongli143.xyz/ssr-download/v2rayN-Core.zip)
 
+### 安卓平台
 
+[V2rayNG-Github](https://github.com/2dust/v2rayNG)
 
-[V2rayNG-Github](https://github.com/2dust/v2rayNG)    
-[v1.7.38下载](https://github.com/2dust/v2rayNG/releases/download/1.7.38/v2rayNG_1.7.38_arm64-v8a.apk)    
-
-
-
-[视动力机场](http://shidongli146.xyz/)    
-[订阅地址remarks](https://www.shidongli145.xyz/link/qd0v8A1ne67fWP9W?sub=4)  
-
-
-
-[JCBB机场](https://jcbb.life/#/login)   
-[订阅地址remarks](https://www.jcbb.life/api/v1/client/subscribe?token=2049161c50c7bb15d6330b30c2dd3ffb)  
-
-
-
-[vmess节点1](vmess://eyJ2IjoiMiIsInBzIjoi5pel5pysIFYxfFdTfENETnwzIiwiYWRkIjoic3YxanB0cjMuMTUxY2MueHl6IiwicG9ydCI6IjgwIiwiaWQiOiI4NmUyNDY2ZC1lMWY4LTNkNjItOTM4Yi05NzE5MWMwYTQzY2YiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzdjFqcHRyMy4xNTFjYy54eXoiLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4IiwidGxzIjoiIn0=)    
-[vmess节点2](vmess://eyJ2IjoiMiIsInBzIjoi5pel5pysIFYxfFdTfENETnxBMSIsImFkZCI6InN2MWpwYTEuMTUxY2MueHl6IiwicG9ydCI6IjgwIiwiaWQiOiI4NmUyNDY2ZC1lMWY4LTNkNjItOTM4Yi05NzE5MWMwYTQzY2YiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzdjFqcGExLjE1MWNjLnh5eiIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJ0bHMiOiIifQ==)    
+[v2rayNG 1.7.38_arm64-v8a.apk 下载](https://github.com/2dust/v2rayNG/releases/download/1.7.38/v2rayNG_1.7.38_arm64-v8a.apk)    
 
 ## 浏览器
 
@@ -178,37 +165,9 @@ DX9
 
 > 115有/字体/苹方字体【包含桌面粗体版】   
 
-## 编程软件
+## PYTHON
 
-[Python](https://www.python.org/downloads/windows/)  
-[PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)  
-[Git](https://git-scm.com/downloads)  
-[Github Desktop](https://desktop.github.com/)
-
-PyCharm镜像源
-
-> - http://pypi.sdutlinux.org/  
-> - https://pypi.mirrors.ustc.edu.cn/simple/
-
-PyCharm签名
-
-> 设置 - 编辑器 - 文件和代码模版 - Python Script
-
-```python
-# -*- coding: utf-8 -*-
-# @Time ： ${DATE} ${TIME}
-# @Auth ： JeremyChim
-# @File ：${NAME}.py
-# @IDE ：${PRODUCT_NAME}
-# @Github ：https://github.com/JeremyChim/
-```
-
-封装setup.bat
-
-```cmd
-Pyinstaller -F -w -i app.ico app.py
-pause
-```
+[JeremyChim/Python_YYDS: 小铭用来记录下Python技巧的一个小本子🤣😃🤪🍕🍔🍟🌭🍿 (github.com)](https://github.com/JeremyChim/Python_YYDS)
 
 ## 加速器
 
