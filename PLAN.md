@@ -8,7 +8,7 @@
 
 体验：Windows Feature Experience Pack 120.2212.4190.0
 
-# 硬盘分区
+## 硬盘分区
 
 > OS (C:) - 200GB - SSD1
 > 
@@ -18,7 +18,7 @@
 > 
 > DATA (F:) - 2TB - HHD1
 
-## D盘
+### D盘
 
 > D:\App
 > 
@@ -30,7 +30,7 @@
 > 
 > D:\Python
 
-## E盘
+### E盘
 
 > E:\Game
 > 
@@ -40,7 +40,7 @@
 > 
 > E:\GameTool
 
-## F盘
+### F盘
 
 > F:\Drive
 > 
