@@ -14,9 +14,9 @@
 | ------------------------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------ | -------- |
 | Windows 10 (consumer editions) | version 22H2 (updated Dec 2022) (x64) - DVD (Chinese-Simplified) | zh-cn_windows_10_consumer_editions_version_22h2_updated_dec_2022_x64_dvd_a95e3989.iso | 5.68GB | 2023/2/7 |
 
-> [ED2K](ed2k://\|file\|zh-cn_windows_10_consumer_editions_version_22h2_updated_dec_2022_x64_dvd_a95e3989.iso\|6101671936\|5C65BBF0491119EBD1A3349AA064263D\|/)
+> ED2K : ed2k://\|file\|zh-cn_windows_10_consumer_editions_version_22h2_updated_dec_2022_x64_dvd_a95e3989.iso\|6101671936\|5C65BBF0491119EBD1A3349AA064263D\|/
 
-> [BT](magnet:?xt=urn:btih:7c03c41a70920cbdb2a9f45866635f0f9df2bc0b&dn=zh-cn_windows_10_consumer_editions_version_22h2_updated_dec_2022_x64_dvd_a95e3989.iso&xl=6101671936)
+> BT : magnet:?xt=urn:btih:7c03c41a70920cbdb2a9f45866635f0f9df2bc0b&dn=zh-cn_windows_10_consumer_editions_version_22h2_updated_dec_2022_x64_dvd_a95e3989.iso&xl=6101671936
 
 ### 预装记录
 
