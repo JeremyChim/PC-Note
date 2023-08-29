@@ -1,0 +1,33 @@
+Windows Registry Editor Version 5.00
+[-HKEY_CLASSES_ROOT\DesktopBackground\Shell\AppMode]
+
+"icon"="themecpl.dll,-1"
+
+"MUIVerb"="Ö÷Ìâ"
+
+"Position"="Bottom"
+
+"SubCommands"=""
+
+[-HKEY_CLASSES_ROOT\DesktopBackground\Shell\AppMode\shell]
+
+[-HKEY_CLASSES_ROOT\DesktopBackground\Shell\AppMode\shell\001flyout]
+
+"Icon"="imageres.dll,-5411"
+
+"MUIVerb"="°×Ìì"
+
+[-HKEY_CLASSES_ROOT\DesktopBackground\Shell\AppMode\shell\001flyout\command]
+
+@="Reg Add HKCU\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Themes\\Personalize /v AppsUseLightTheme /t REG_DWORD /d 1 /f"
+
+[-HKEY_CLASSES_ROOT\DesktopBackground\Shell\AppMode\shell\002flyout]
+
+"Icon"="imageres.dll,-5412"
+
+"MUIVerb"="ºÚÒ¹"
+
+[-HKEY_CLASSES_ROOT\DesktopBackground\Shell\AppMode\shell\002flyout\command]
+
+@="Reg Add HKCU\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Themes\\Personalize /v AppsUseLightTheme /t REG_DWORD /d 0 /f"
+
